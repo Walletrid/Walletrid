@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Not really anything in specific enough to be mentioned here
 - 📫 How to reach me: my Discord is "@walletrid" and my display name is "Wallet"
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm lazy 🥱
+- ⚡ Fun fact: I'm lazy 🥱 and I make funny jokes.
 
 <!---
 Walletrid/Walletrid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
